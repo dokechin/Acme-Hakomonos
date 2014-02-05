@@ -52,5 +52,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/dokechin/Acme-Hakomonos/issues"
+      },
+      "homepage" : "https://github.com/dokechin/Acme-Hakomonos",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/dokechin/Acme-Hakomonos.git",
+         "web" : "https://github.com/dokechin/Acme-Hakomonos"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "dokechin <user@user-PC.(none)>"
+   ]
 }
